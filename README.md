@@ -24,7 +24,7 @@ This project aims to detect fraudulent transactions in credit card data using a 
      |![image](https://github.com/user-attachments/assets/ec4f8b0d-ecd9-4ddb-9f73-623636b850fc)|
      |-|
 
-     | Dataset | <a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud" target="_blank"> link </a> |
+     | Dataset | <a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud"> link </a> |
      |-|-|
 
 
