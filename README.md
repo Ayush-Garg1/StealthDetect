@@ -1,4 +1,4 @@
-# CritoRisk
+# StealthDetect
 
 Here’s a formal description of your **Credit Card Fraud Detection Project**:
 
