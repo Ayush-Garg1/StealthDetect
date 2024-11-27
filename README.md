@@ -1,9 +1,5 @@
-# StealthDetect
-
-Here’s a formal description of your **Credit Card Fraud Detection Project**:
-
 ---
-
+# StealthDetect
 ### Credit Card Fraud Detection using Logistic Regression
 
 This project aims to detect fraudulent transactions in credit card data using a binary classification model. The dataset is highly imbalanced, with a small proportion of fraudulent transactions compared to legitimate ones. To address this imbalance, the model employs techniques such as downsampling and applies logistic regression for classification.
